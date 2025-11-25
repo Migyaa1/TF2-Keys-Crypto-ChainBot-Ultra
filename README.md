@@ -52,7 +52,6 @@ Self-contained **Admin Panel** Application with everything you need to manage, b
 
 ### Crypto & Trading Logic
 
-* **400+ Supported Cryptocurrencies:** Enable specific coins or automatically support all of them, including new listings.
 * **Unlimited Storage Accounts** can be added to the system.
 * **Scammer Protection:** Protocol designed on both ends to automatically do backchecks and refuse service to high-risk users for crypto and steam side of things.
 * **Admin Proof of Reserve:** The bot performs self-checks to ensure your crypto reserves match expectations and alerts you to any discrepancies.
